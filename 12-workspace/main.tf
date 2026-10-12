@@ -19,3 +19,5 @@ resource "aws_security_group" "roboshop" {
 
   tags = local.sg_tags
 }
+
+tags
